@@ -4,4 +4,4 @@ Tide clocks assume that high tide is spaced every 12 hours and 25 minutes.  They
 
 Python/micropython code is provided to read the model and compute predictions.   This work is part of the TideClock app in [wasp-os](https://github.com/wasp-os/wasp-os)
 
-Here are predictions for [2024](2024) - if you need more accuracy go to the [BBC](https://www.bbc.co.uk/weather/coast-and-sea/tide-tables).
+Here are predictions for [2024](https://drtonyr.github.io/tide/2024/) - if you need more accuracy go to the [BBC](https://www.bbc.co.uk/weather/coast-and-sea/tide-tables).
