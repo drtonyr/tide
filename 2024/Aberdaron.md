@@ -2,6 +2,7 @@
 predictions from https://drtonyr.github.io/tide
 expect high tide to be correct to ±8 minutes (one standard deviation)
 if you need better https://www.bbc.co.uk/weather/coast-and-sea/tide-tables
+
 | date | tides |   |   |   |   |
 |------|-------|---|---|---|---|
 | Monday 1 January | Low 06:12 | High 11:30 | Low 18:32 | High 23:51 |  |
