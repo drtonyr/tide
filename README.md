@@ -2,6 +2,8 @@
 
 Tide clocks assume that high tide is spaced every 12 hours and 25 minutes.  They look good, but on average they have about 38 minutes of error (one standard deviation), however a little modelling can get this down to 9 minutes of error.  The deviation from uniform spacing is modelled as a sum of sinusoids and parameters fitted with least-mean-squared error.
 
-Python/micropython code is provided to read the model and compute predictions.   This work is part of the TideClock app in [wasp-os](https://github.com/wasp-os/wasp-os)
+This is good enough for holiday use, whether it's planning which week to go on holiday or to avoid being cut off by high tides.  If you need more accuracy go to the [BBC](https://www.bbc.co.uk/weather/coast-and-sea/tide-tables) or buy.
 
-Here are predictions for [2024](https://drtonyr.github.io/tide/2024/) - if you need more accuracy go to the [BBC](https://www.bbc.co.uk/weather/coast-and-sea/tide-tables).
+Python/micropython code is provided to read the model and compute predictions for any year.  This work is part of the TideClock app in [wasp-os](https://github.com/wasp-os/wasp-os)
+
+Predictions are provided for [2024](https://drtonyr.github.io/tide/2024/).  Ask me if you need 2025 predictions and you can't run the code.
