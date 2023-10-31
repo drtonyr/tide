@@ -6,4 +6,4 @@ This is good enough for holiday use, whether it's planning which week to go on h
 
 Python/micropython code is provided to read the model and compute predictions for any year.  This work is part of the TideClock app in [wasp-os](https://github.com/wasp-os/wasp-os)
 
-Predictions are provided for [2024](https://drtonyr.github.io/tide/2024/)  Ask me if you need 2025 predictions and you can't run the code.
+Predictions are provided for [2024](https://drtonyr.github.io/tide/2024/).  Ask me if you need 2025 predictions and you can't run the code.
