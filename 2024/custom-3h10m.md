@@ -7,27 +7,27 @@ Note that no adjustment for any daylight savings time is made.  If you need to d
 
 | date |   |   |   |   |
 |:-----|---|---|---|---|
-| Monday 1 January | Low 04:53 | High 11:03 | Low 17:13 | High 23:23 | 
+| Monday 1 January | Low 04:53 | High 11:02 | Low 17:12 | High 23:23 | 
 | Tuesday 2 January | Low 05:33 | High 11:44 | Low 17:55 |  | 
-| Wednesday 3 January | High 00:06 | Low 06:18 | High 12:29 | Low 18:42 | 
+| Wednesday 3 January | High 00:06 | Low 06:17 | High 12:29 | Low 18:42 | 
 | Thursday 4 January | High 00:54 | Low 07:08 | High 13:21 | Low 19:35 | 
 | Friday 5 January | High 01:49 | Low 08:03 | High 14:18 | Low 20:33 | 
 | Saturday 6 January | High 02:48 | Low 09:03 | High 15:19 | Low 21:34 | 
 | Sunday 7 January | High 03:50 | Low 10:05 | High 16:21 | Low 22:36 | 
 | Monday 8 January | High 04:51 | Low 11:05 | High 17:20 | Low 23:34 | 
 | Tuesday 9 January | High 05:48 | Low 12:02 | High 18:15 |  | 
-| Wednesday 10 January | Low 00:28 | High 06:41 | Low 12:53 | High 19:05 | 
+| Wednesday 10 January | Low 00:28 | High 06:40 | Low 12:53 | High 19:05 | 
 | Thursday 11 January | Low 01:17 | High 07:29 | Low 13:40 | High 19:52 | 
 | Friday 12 January | Low 02:03 | High 08:15 | Low 14:26 | High 20:38 | 
 | Saturday 13 January | Low 02:50 | High 09:01 | Low 15:13 | High 21:25 | 
 | Sunday 14 January | Low 03:37 | High 09:50 | Low 16:02 | High 22:14 | 
 | Monday 15 January | Low 04:27 | High 10:40 | Low 16:52 | High 23:05 | 
 | Tuesday 16 January | Low 05:18 | High 11:31 | Low 17:44 | High 23:57 | 
-| Wednesday 17 January | Low 06:10 | High 12:23 | Low 18:37 |  | 
+| Wednesday 17 January | Low 06:10 | High 12:24 | Low 18:37 |  | 
 | Thursday 18 January | High 00:51 | Low 07:05 | High 13:19 | Low 19:33 | 
 | Friday 19 January | High 01:48 | Low 08:03 | High 14:18 | Low 20:33 | 
 | Saturday 20 January | High 02:49 | Low 09:05 | High 15:21 | Low 21:37 | 
-| Sunday 21 January | High 03:54 | Low 10:10 | High 16:26 | Low 22:42 | 
+| Sunday 21 January | High 03:54 | Low 10:10 | High 16:26 | Low 22:43 | 
 | Monday 22 January | High 04:59 | Low 11:14 | High 17:30 | Low 23:44 | 
 | Tuesday 23 January | High 05:59 | Low 12:13 | High 18:27 |  | 
 | Wednesday 24 January | Low 00:40 | High 06:52 | Low 13:04 | High 19:16 | 
@@ -37,20 +37,20 @@ Note that no adjustment for any daylight savings time is made.  If you need to d
 | Sunday 28 January | Low 03:19 | High 09:28 | Low 15:37 | High 21:45 | 
 | Monday 29 January | Low 03:54 | High 10:02 | Low 16:11 | High 22:19 | 
 | Tuesday 30 January | Low 04:27 | High 10:35 | Low 16:43 | High 22:51 | 
-| Wednesday 31 January | Low 04:59 | High 11:07 | Low 17:16 | High 23:24 | 
+| Wednesday 31 January | Low 04:59 | High 11:07 | Low 17:15 | High 23:24 | 
 | Thursday 1 February | Low 05:33 | High 11:42 | Low 17:52 |  | 
 | Friday 2 February | High 00:02 | Low 06:13 | High 12:24 | Low 18:37 | 
 | Saturday 3 February | High 00:50 | Low 07:04 | High 13:19 | Low 19:34 | 
-| Sunday 4 February | High 01:50 | Low 08:07 | High 14:24 | Low 20:42 | 
-| Monday 5 February | High 03:00 | Low 09:19 | High 15:37 | Low 21:56 | 
+| Sunday 4 February | High 01:50 | Low 08:07 | High 14:25 | Low 20:43 | 
+| Monday 5 February | High 03:01 | Low 09:19 | High 15:37 | Low 21:56 | 
 | Tuesday 6 February | High 04:14 | Low 10:32 | High 16:49 | Low 23:06 | 
 | Wednesday 7 February | High 05:23 | Low 11:39 | High 17:54 |  | 
 | Thursday 8 February | Low 00:09 | High 06:23 | Low 12:37 | High 18:50 | 
 | Friday 9 February | Low 01:03 | High 07:15 | Low 13:27 | High 19:39 | 
 | Saturday 10 February | Low 01:50 | High 08:02 | Low 14:13 | High 20:25 | 
-| Sunday 11 February | Low 02:37 | High 08:48 | Low 15:00 | High 21:11 | 
+| Sunday 11 February | Low 02:36 | High 08:48 | Low 15:00 | High 21:11 | 
 | Monday 12 February | Low 03:23 | High 09:35 | Low 15:47 | High 21:59 | 
-| Tuesday 13 February | Low 04:10 | High 10:22 | Low 16:34 | High 22:45 | 
+| Tuesday 13 February | Low 04:11 | High 10:22 | Low 16:34 | High 22:45 | 
 | Wednesday 14 February | Low 04:57 | High 11:08 | Low 17:19 | High 23:31 | 
 | Thursday 15 February | Low 05:42 | High 11:54 | Low 18:06 |  | 
 | Friday 16 February | High 00:17 | Low 06:30 | High 12:43 | Low 18:56 | 
@@ -65,15 +65,15 @@ Note that no adjustment for any daylight savings time is made.  If you need to d
 | Sunday 25 February | Low 02:24 | High 08:31 | Low 14:39 | High 20:47 | 
 | Monday 26 February | Low 02:55 | High 09:03 | Low 15:11 | High 21:19 | 
 | Tuesday 27 February | Low 03:27 | High 09:35 | Low 15:42 | High 21:50 | 
-| Wednesday 28 February | Low 03:57 | High 10:05 | Low 16:11 | High 22:18 | 
+| Wednesday 28 February | Low 03:57 | High 10:04 | Low 16:11 | High 22:18 | 
 | Thursday 29 February | Low 04:25 | High 10:32 | Low 16:39 | High 22:46 | 
-| Friday 1 March | Low 04:54 | High 11:02 | Low 17:11 | High 23:19 | 
+| Friday 1 March | Low 04:54 | High 11:02 | Low 17:10 | High 23:19 | 
 | Saturday 2 March | Low 05:30 | High 11:40 | Low 17:53 |  | 
-| Sunday 3 March | High 00:06 | Low 06:20 | High 12:35 | Low 18:52 | 
+| Sunday 3 March | High 00:05 | Low 06:20 | High 12:35 | Low 18:51 | 
 | Monday 4 March | High 01:08 | Low 07:27 | High 13:45 | Low 20:05 | 
 | Tuesday 5 March | High 02:25 | Low 08:45 | High 15:05 | Low 21:26 | 
 | Wednesday 6 March | High 03:46 | Low 10:05 | High 16:25 | Low 22:43 | 
-| Thursday 7 March | High 05:02 | Low 11:18 | High 17:35 | Low 23:51 | 
+| Thursday 7 March | High 05:02 | Low 11:19 | High 17:35 | Low 23:51 | 
 | Friday 8 March | High 06:06 | Low 12:20 | High 18:33 |  | 
 | Saturday 9 March | Low 00:46 | High 06:58 | Low 13:10 | High 19:22 | 
 | Sunday 10 March | Low 01:33 | High 07:44 | Low 13:55 | High 20:07 | 
@@ -94,7 +94,7 @@ Note that no adjustment for any daylight savings time is made.  If you need to d
 | Monday 25 March | Low 01:57 | High 08:04 | Low 14:11 | High 20:18 | 
 | Tuesday 26 March | Low 02:25 | High 08:33 | Low 14:40 | High 20:48 | 
 | Wednesday 27 March | Low 02:56 | High 09:03 | Low 15:11 | High 21:18 | 
-| Thursday 28 March | Low 03:26 | High 09:33 | Low 15:40 | High 21:48 | 
+| Thursday 28 March | Low 03:26 | High 09:33 | Low 15:40 | High 21:47 | 
 | Friday 29 March | Low 03:55 | High 10:02 | Low 16:09 | High 22:16 | 
 | Saturday 30 March | Low 04:24 | High 10:32 | Low 16:42 | High 22:51 | 
 | Sunday 31 March | Low 05:02 | High 11:13 | Low 17:26 | High 23:39 | 
@@ -105,8 +105,8 @@ Note that no adjustment for any daylight savings time is made.  If you need to d
 | Friday 5 April | High 04:40 | Low 10:57 | High 17:14 | Low 23:29 | 
 | Saturday 6 April | High 05:44 | Low 11:57 | High 18:11 |  | 
 | Sunday 7 April | Low 00:23 | High 06:36 | Low 12:47 | High 18:59 | 
-| Monday 8 April | Low 01:10 | High 07:21 | Low 13:32 | High 19:42 | 
-| Tuesday 9 April | Low 01:53 | High 08:04 | Low 14:15 | High 20:26 | 
+| Monday 8 April | Low 01:10 | High 07:21 | Low 13:32 | High 19:43 | 
+| Tuesday 9 April | Low 01:53 | High 08:04 | Low 14:15 | High 20:27 | 
 | Wednesday 10 April | Low 02:38 | High 08:49 | Low 15:00 | High 21:11 | 
 | Thursday 11 April | Low 03:21 | High 09:32 | Low 15:42 | High 21:53 | 
 | Friday 12 April | Low 04:03 | High 10:13 | Low 16:22 | High 22:32 | 
@@ -118,12 +118,12 @@ Note that no adjustment for any daylight savings time is made.  If you need to d
 | Thursday 18 April | High 03:39 | Low 09:58 | High 16:17 | Low 22:35 | 
 | Friday 19 April | High 04:52 | Low 11:08 | High 17:23 | Low 23:37 | 
 | Saturday 20 April | High 05:50 | Low 12:01 | High 18:13 |  | 
-| Sunday 21 April | Low 00:22 | High 06:32 | Low 12:40 | High 18:48 | 
+| Sunday 21 April | Low 00:22 | High 06:32 | Low 12:40 | High 18:49 | 
 | Monday 22 April | Low 00:56 | High 07:03 | Low 13:10 | High 19:17 | 
 | Tuesday 23 April | Low 01:24 | High 07:31 | Low 13:38 | High 19:45 | 
 | Wednesday 24 April | Low 01:53 | High 08:01 | Low 14:08 | High 20:16 | 
 | Thursday 25 April | Low 02:25 | High 08:33 | Low 14:41 | High 20:49 | 
-| Friday 26 April | Low 02:58 | High 09:06 | Low 15:14 | High 21:23 | 
+| Friday 26 April | Low 02:58 | High 09:06 | Low 15:14 | High 21:22 | 
 | Saturday 27 April | Low 03:31 | High 09:39 | Low 15:48 | High 21:57 | 
 | Sunday 28 April | Low 04:06 | High 10:15 | Low 16:26 | High 22:36 | 
 | Monday 29 April | Low 04:48 | High 11:00 | Low 17:13 | High 23:27 | 
@@ -131,14 +131,14 @@ Note that no adjustment for any daylight savings time is made.  If you need to d
 | Wednesday 1 May | High 00:31 | Low 06:49 | High 13:08 | Low 19:27 | 
 | Thursday 2 May | High 01:46 | Low 08:06 | High 14:25 | Low 20:44 | 
 | Friday 3 May | High 03:04 | Low 09:22 | High 15:41 | Low 21:58 | 
-| Saturday 4 May | High 04:15 | Low 10:31 | High 16:47 | Low 23:02 | 
-| Sunday 5 May | High 05:17 | Low 11:30 | High 17:43 | Low 23:56 | 
+| Saturday 4 May | High 04:16 | Low 10:32 | High 16:48 | Low 23:02 | 
+| Sunday 5 May | High 05:17 | Low 11:30 | High 17:44 | Low 23:56 | 
 | Monday 6 May | High 06:08 | Low 12:20 | High 18:32 |  | 
-| Tuesday 7 May | Low 00:43 | High 06:54 | Low 13:06 | High 19:17 | 
+| Tuesday 7 May | Low 00:43 | High 06:55 | Low 13:06 | High 19:17 | 
 | Wednesday 8 May | Low 01:28 | High 07:39 | Low 13:51 | High 20:02 | 
 | Thursday 9 May | Low 02:13 | High 08:25 | Low 14:36 | High 20:47 | 
 | Friday 10 May | Low 02:58 | High 09:08 | Low 15:19 | High 21:29 | 
-| Saturday 11 May | Low 03:40 | High 09:50 | Low 16:00 | High 22:10 | 
+| Saturday 11 May | Low 03:39 | High 09:50 | Low 16:00 | High 22:10 | 
 | Sunday 12 May | Low 04:20 | High 10:30 | Low 16:40 | High 22:51 | 
 | Monday 13 May | Low 05:02 | High 11:13 | Low 17:26 | High 23:38 | 
 | Tuesday 14 May | Low 05:52 | High 12:06 | Low 18:21 |  | 
@@ -152,7 +152,7 @@ Note that no adjustment for any daylight savings time is made.  If you need to d
 | Wednesday 22 May | Low 00:48 | High 06:57 | Low 13:05 | High 19:14 | 
 | Thursday 23 May | Low 01:22 | High 07:31 | Low 13:40 | High 19:49 | 
 | Friday 24 May | Low 01:58 | High 08:07 | Low 14:17 | High 20:26 | 
-| Saturday 25 May | Low 02:36 | High 08:45 | Low 14:55 | High 21:04 | 
+| Saturday 25 May | Low 02:35 | High 08:45 | Low 14:55 | High 21:04 | 
 | Sunday 26 May | Low 03:14 | High 09:24 | Low 15:34 | High 21:45 | 
 | Monday 27 May | Low 03:56 | High 10:06 | Low 16:18 | High 22:30 | 
 | Tuesday 28 May | Low 04:42 | High 10:55 | Low 17:08 | High 23:22 | 
@@ -163,7 +163,7 @@ Note that no adjustment for any daylight savings time is made.  If you need to d
 | Sunday 2 June | High 03:46 | Low 10:02 | High 16:17 | Low 22:32 | 
 | Monday 3 June | High 04:46 | Low 11:00 | High 17:14 | Low 23:27 | 
 | Tuesday 4 June | High 05:40 | Low 11:53 | High 18:06 |  | 
-| Wednesday 5 June | Low 00:18 | High 06:30 | Low 12:43 | High 18:55 | 
+| Wednesday 5 June | Low 00:18 | High 06:31 | Low 12:43 | High 18:55 | 
 | Thursday 6 June | Low 01:07 | High 07:19 | Low 13:30 | High 19:42 | 
 | Friday 7 June | Low 01:54 | High 08:05 | Low 14:17 | High 20:28 | 
 | Saturday 8 June | Low 02:39 | High 08:50 | Low 15:01 | High 21:11 | 
@@ -172,7 +172,7 @@ Note that no adjustment for any daylight savings time is made.  If you need to d
 | Tuesday 11 June | Low 04:43 | High 10:54 | Low 17:05 | High 23:16 | 
 | Wednesday 12 June | Low 05:28 | High 11:40 | Low 17:52 |  | 
 | Thursday 13 June | High 00:05 | Low 06:18 | High 12:32 | Low 18:46 | 
-| Friday 14 June | High 01:00 | Low 07:15 | High 13:30 | Low 19:45 | 
+| Friday 14 June | High 01:00 | Low 07:15 | High 13:29 | Low 19:45 | 
 | Saturday 15 June | High 02:00 | Low 08:15 | High 14:30 | Low 20:45 | 
 | Sunday 16 June | High 03:00 | Low 09:15 | High 15:30 | Low 21:44 | 
 | Monday 17 June | High 03:58 | Low 10:12 | High 16:26 | Low 22:39 | 
@@ -185,15 +185,15 @@ Note that no adjustment for any daylight savings time is made.  If you need to d
 | Monday 24 June | Low 03:03 | High 09:14 | Low 15:25 | High 21:37 | 
 | Tuesday 25 June | Low 03:48 | High 10:00 | Low 16:12 | High 22:24 | 
 | Wednesday 26 June | Low 04:37 | High 10:50 | Low 17:03 | High 23:16 | 
-| Thursday 27 June | Low 05:29 | High 11:43 | Low 17:57 |  | 
+| Thursday 27 June | Low 05:30 | High 11:43 | Low 17:57 |  | 
 | Friday 28 June | High 00:11 | Low 06:26 | High 12:40 | Low 18:55 | 
 | Saturday 29 June | High 01:10 | Low 07:25 | High 13:40 | Low 19:56 | 
 | Sunday 30 June | High 02:11 | Low 08:27 | High 14:43 | Low 20:58 | 
 | Monday 1 July | High 03:14 | Low 09:30 | High 15:45 | Low 22:01 | 
 | Tuesday 2 July | High 04:16 | Low 10:32 | High 16:47 | Low 23:02 | 
-| Wednesday 3 July | High 05:17 | Low 11:31 | High 17:45 | Low 23:59 | 
-| Thursday 4 July | High 06:13 | Low 12:27 | High 18:40 |  | 
-| Friday 5 July | Low 00:53 | High 07:05 | Low 13:17 | High 19:29 | 
+| Wednesday 3 July | High 05:17 | Low 11:31 | High 17:46 |  | 
+| Thursday 4 July | Low 00:00 | High 06:13 | Low 12:27 | High 18:40 | 
+| Friday 5 July | Low 00:53 | High 07:05 | Low 13:17 | High 19:30 | 
 | Saturday 6 July | Low 01:41 | High 07:53 | Low 14:04 | High 20:15 | 
 | Sunday 7 July | Low 02:25 | High 08:36 | Low 14:46 | High 20:56 | 
 | Monday 8 July | Low 03:06 | High 09:16 | Low 15:26 | High 21:36 | 
@@ -202,25 +202,25 @@ Note that no adjustment for any daylight savings time is made.  If you need to d
 | Thursday 11 July | Low 05:02 | High 11:11 | Low 17:21 | High 23:31 | 
 | Friday 12 July | Low 05:41 | High 11:51 | Low 18:02 |  | 
 | Saturday 13 July | High 00:13 | Low 06:24 | High 12:35 | Low 18:47 | 
-| Sunday 14 July | High 01:00 | Low 07:13 | High 13:26 | Low 19:39 | 
+| Sunday 14 July | High 00:59 | Low 07:13 | High 13:26 | Low 19:39 | 
 | Monday 15 July | High 01:53 | Low 08:08 | High 14:23 | Low 20:38 | 
 | Tuesday 16 July | High 02:54 | Low 09:10 | High 15:25 | Low 21:41 | 
 | Wednesday 17 July | High 03:57 | Low 10:13 | High 16:29 | Low 22:45 | 
 | Thursday 18 July | High 05:00 | Low 11:15 | High 17:29 | Low 23:43 | 
 | Friday 19 July | High 05:57 | Low 12:10 | High 18:24 |  | 
-| Saturday 20 July | Low 00:36 | High 06:48 | Low 13:00 | High 19:12 | 
+| Saturday 20 July | Low 00:36 | High 06:48 | Low 13:00 | High 19:11 | 
 | Sunday 21 July | Low 01:23 | High 07:34 | Low 13:45 | High 19:56 | 
 | Monday 22 July | Low 02:07 | High 08:18 | Low 14:29 | High 20:40 | 
 | Tuesday 23 July | Low 02:51 | High 09:03 | Low 15:14 | High 21:26 | 
 | Wednesday 24 July | Low 03:38 | High 09:50 | Low 16:02 | High 22:14 | 
 | Thursday 25 July | Low 04:26 | High 10:38 | Low 16:50 | High 23:02 | 
-| Friday 26 July | Low 05:14 | High 11:27 | Low 17:39 | High 23:51 | 
+| Friday 26 July | Low 05:15 | High 11:27 | Low 17:39 | High 23:51 | 
 | Saturday 27 July | Low 06:04 | High 12:16 | Low 18:29 |  | 
 | Sunday 28 July | High 00:42 | Low 06:56 | High 13:10 | Low 19:24 | 
 | Monday 29 July | High 01:39 | Low 07:54 | High 14:09 | Low 20:25 | 
 | Tuesday 30 July | High 02:42 | Low 08:58 | High 15:15 | Low 21:32 | 
 | Wednesday 31 July | High 03:50 | Low 10:07 | High 16:24 | Low 22:41 | 
-| Thursday 1 August | High 04:58 | Low 11:15 | High 17:31 | Low 23:47 | 
+| Thursday 1 August | High 04:59 | Low 11:15 | High 17:31 | Low 23:47 | 
 | Friday 2 August | High 06:02 | Low 12:17 | High 18:31 |  | 
 | Saturday 3 August | Low 00:44 | High 06:57 | Low 13:09 | High 19:21 | 
 | Sunday 4 August | Low 01:32 | High 07:43 | Low 13:53 | High 20:03 | 
@@ -231,7 +231,7 @@ Note that no adjustment for any daylight savings time is made.  If you need to d
 | Friday 9 August | Low 04:32 | High 10:40 | Low 16:47 | High 22:55 | 
 | Saturday 10 August | Low 05:02 | High 11:10 | Low 17:18 | High 23:26 | 
 | Sunday 11 August | Low 05:35 | High 11:44 | Low 17:54 |  | 
-| Monday 12 August | High 00:04 | Low 06:16 | High 12:27 | Low 18:40 | 
+| Monday 12 August | High 00:04 | Low 06:15 | High 12:27 | Low 18:40 | 
 | Tuesday 13 August | High 00:54 | Low 07:09 | High 13:24 | Low 19:41 | 
 | Wednesday 14 August | High 01:57 | Low 08:15 | High 14:33 | Low 20:52 | 
 | Thursday 15 August | High 03:11 | Low 09:29 | High 15:48 | Low 22:07 | 
@@ -245,7 +245,7 @@ Note that no adjustment for any daylight savings time is made.  If you need to d
 | Friday 23 August | Low 04:07 | High 10:19 | Low 16:30 | High 22:41 | 
 | Saturday 24 August | Low 04:52 | High 11:03 | Low 17:14 | High 23:25 | 
 | Sunday 25 August | Low 05:36 | High 11:48 | Low 17:59 |  | 
-| Monday 26 August | High 00:11 | Low 06:24 | High 12:37 | Low 18:51 | 
+| Monday 26 August | High 00:11 | Low 06:24 | High 12:37 | Low 18:52 | 
 | Tuesday 27 August | High 01:06 | Low 07:21 | High 13:37 | Low 19:54 | 
 | Wednesday 28 August | High 02:11 | Low 08:30 | High 14:48 | Low 21:07 | 
 | Thursday 29 August | High 03:26 | Low 09:45 | High 16:05 | Low 22:24 | 
@@ -258,12 +258,12 @@ Note that no adjustment for any daylight savings time is made.  If you need to d
 | Thursday 5 September | Low 02:59 | High 09:07 | Low 15:15 | High 21:22 | 
 | Friday 6 September | Low 03:30 | High 09:38 | Low 15:45 | High 21:52 | 
 | Saturday 7 September | Low 03:59 | High 10:06 | Low 16:12 | High 22:19 | 
-| Sunday 8 September | Low 04:26 | High 10:32 | Low 16:39 | High 22:46 | 
+| Sunday 8 September | Low 04:25 | High 10:32 | Low 16:39 | High 22:46 | 
 | Monday 9 September | Low 04:54 | High 11:02 | Low 17:11 | High 23:20 | 
-| Tuesday 10 September | Low 05:32 | High 11:43 | Low 17:56 |  | 
-| Wednesday 11 September | High 00:09 | Low 06:25 | High 12:41 | Low 18:58 | 
+| Tuesday 10 September | Low 05:31 | High 11:43 | Low 17:56 |  | 
+| Wednesday 11 September | High 00:09 | Low 06:25 | High 12:40 | Low 18:58 | 
 | Thursday 12 September | High 01:16 | Low 07:35 | High 13:54 | Low 20:14 | 
-| Friday 13 September | High 02:35 | Low 08:55 | High 15:15 | Low 21:36 | 
+| Friday 13 September | High 02:35 | Low 08:55 | High 15:16 | Low 21:36 | 
 | Saturday 14 September | High 03:56 | Low 10:15 | High 16:34 | Low 22:51 | 
 | Sunday 15 September | High 05:09 | Low 11:25 | High 17:40 | Low 23:55 | 
 | Monday 16 September | High 06:09 | Low 12:22 | High 18:34 |  | 
@@ -294,14 +294,14 @@ Note that no adjustment for any daylight savings time is made.  If you need to d
 | Friday 11 October | High 00:50 | Low 07:09 | High 13:28 | Low 19:49 | 
 | Saturday 12 October | High 02:09 | Low 08:29 | High 14:49 | Low 21:09 | 
 | Sunday 13 October | High 03:29 | Low 09:48 | High 16:07 | Low 22:24 | 
-| Monday 14 October | High 04:41 | Low 10:57 | High 17:13 | Low 23:27 | 
-| Tuesday 15 October | High 05:42 | Low 11:54 | High 18:07 |  | 
-| Wednesday 16 October | Low 00:19 | High 06:31 | Low 12:42 | High 18:54 | 
+| Monday 14 October | High 04:42 | Low 10:57 | High 17:13 | Low 23:27 | 
+| Tuesday 15 October | High 05:42 | Low 11:55 | High 18:07 |  | 
+| Wednesday 16 October | Low 00:19 | High 06:31 | Low 12:43 | High 18:54 | 
 | Thursday 17 October | Low 01:05 | High 07:16 | Low 13:27 | High 19:38 | 
 | Friday 18 October | Low 01:49 | High 08:00 | Low 14:11 | High 20:23 | 
 | Saturday 19 October | Low 02:34 | High 08:45 | Low 14:56 | High 21:08 | 
-| Sunday 20 October | Low 03:19 | High 09:29 | Low 15:40 | High 21:51 | 
-| Monday 21 October | Low 04:01 | High 10:12 | Low 16:22 | High 22:32 | 
+| Sunday 20 October | Low 03:18 | High 09:29 | Low 15:40 | High 21:51 | 
+| Monday 21 October | Low 04:01 | High 10:11 | Low 16:22 | High 22:32 | 
 | Tuesday 22 October | Low 04:43 | High 10:54 | Low 17:06 | High 23:17 | 
 | Wednesday 23 October | Low 05:30 | High 11:43 | Low 17:57 |  | 
 | Thursday 24 October | High 00:11 | Low 06:27 | High 12:43 | Low 19:00 | 
@@ -322,10 +322,10 @@ Note that no adjustment for any daylight savings time is made.  If you need to d
 | Friday 8 November | Low 05:46 | High 12:01 | Low 18:18 |  | 
 | Saturday 9 November | High 00:35 | Low 06:53 | High 13:10 | Low 19:29 | 
 | Sunday 10 November | High 01:48 | Low 08:06 | High 14:25 | Low 20:43 | 
-| Monday 11 November | High 03:02 | Low 09:19 | High 15:37 | Low 21:53 | 
-| Tuesday 12 November | High 04:10 | Low 10:25 | High 16:41 | Low 22:55 | 
-| Wednesday 13 November | High 05:09 | Low 11:23 | High 17:36 | Low 23:49 | 
-| Thursday 14 November | High 06:01 | Low 12:13 | High 18:25 |  | 
+| Monday 11 November | High 03:02 | Low 09:19 | High 15:37 | Low 21:54 | 
+| Tuesday 12 November | High 04:10 | Low 10:26 | High 16:41 | Low 22:55 | 
+| Wednesday 13 November | High 05:10 | Low 11:23 | High 17:36 | Low 23:49 | 
+| Thursday 14 November | High 06:01 | Low 12:13 | High 18:26 |  | 
 | Friday 15 November | Low 00:37 | High 06:49 | Low 13:01 | High 19:13 | 
 | Saturday 16 November | Low 01:25 | High 07:36 | Low 13:48 | High 20:00 | 
 | Sunday 17 November | Low 02:12 | High 08:23 | Low 14:35 | High 20:46 | 
@@ -343,7 +343,7 @@ Note that no adjustment for any daylight savings time is made.  If you need to d
 | Friday 29 November | Low 00:18 | High 06:27 | Low 12:35 | High 18:44 | 
 | Saturday 30 November | Low 00:53 | High 07:01 | Low 13:10 | High 19:19 | 
 | Sunday 1 December | Low 01:27 | High 07:36 | Low 13:45 | High 19:54 | 
-| Monday 2 December | Low 02:03 | High 08:12 | Low 14:21 | High 20:31 | 
+| Monday 2 December | Low 02:03 | High 08:12 | Low 14:21 | High 20:30 | 
 | Tuesday 3 December | Low 02:40 | High 08:49 | Low 14:59 | High 21:08 | 
 | Wednesday 4 December | Low 03:18 | High 09:28 | Low 15:38 | High 21:48 | 
 | Thursday 5 December | Low 03:59 | High 10:10 | Low 16:21 | High 22:33 | 
@@ -354,7 +354,7 @@ Note that no adjustment for any daylight savings time is made.  If you need to d
 | Tuesday 10 December | High 02:32 | Low 08:48 | High 15:04 | Low 21:20 | 
 | Wednesday 11 December | High 03:36 | Low 09:51 | High 16:07 | Low 22:22 | 
 | Thursday 12 December | High 04:37 | Low 10:51 | High 17:05 | Low 23:19 | 
-| Friday 13 December | High 05:33 | Low 11:47 | High 18:00 |  | 
+| Friday 13 December | High 05:33 | Low 11:47 | High 18:01 |  | 
 | Saturday 14 December | Low 00:14 | High 06:27 | Low 12:40 | High 18:53 | 
 | Sunday 15 December | Low 01:06 | High 07:18 | Low 13:31 | High 19:43 | 
 | Monday 16 December | Low 01:55 | High 08:07 | Low 14:19 | High 20:31 | 
@@ -365,11 +365,11 @@ Note that no adjustment for any daylight savings time is made.  If you need to d
 | Saturday 21 December | Low 05:39 | High 11:51 | Low 18:03 |  | 
 | Sunday 22 December | High 00:16 | Low 06:29 | High 12:42 | Low 18:56 | 
 | Monday 23 December | High 01:10 | Low 07:24 | High 13:38 | Low 19:53 | 
-| Tuesday 24 December | High 02:07 | Low 08:22 | High 14:37 | Low 20:51 | 
+| Tuesday 24 December | High 02:07 | Low 08:22 | High 14:37 | Low 20:52 | 
 | Wednesday 25 December | High 03:06 | Low 09:21 | High 15:35 | Low 21:50 | 
 | Thursday 26 December | High 04:04 | Low 10:18 | High 16:32 | Low 22:45 | 
 | Friday 27 December | High 04:58 | Low 11:11 | High 17:24 | Low 23:36 | 
-| Saturday 28 December | High 05:48 | Low 12:00 | High 18:11 |  | 
+| Saturday 28 December | High 05:48 | Low 11:59 | High 18:11 |  | 
 | Sunday 29 December | Low 00:22 | High 06:33 | Low 12:44 | High 18:54 | 
 | Monday 30 December | Low 01:04 | High 07:15 | Low 13:25 | High 19:35 | 
-| Tuesday 31 December | Low 01:45 | High 07:55 | Low 14:05 | High 20:15 | 
+| Tuesday 31 December | Low 01:45 | High 07:54 | Low 14:05 | High 20:15 | 
